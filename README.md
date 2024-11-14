@@ -1,41 +1,67 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=walpurgis-dotdev.walpurgis-dotdev" />
+## 👋 This is @YggdrisWalps!
 
-<a align="left" href="https://github.com/walpurgis-dotdev/walpurgis-dotdev"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&width=500&height=70&lines=👋+Hi,+I’m+@louiswalpurgis" alt="@walpurgis-dotdev" /></a>
-<br/>
+[![][github-follower-shield]][github-follower-stats]
+[![][informatn-x-shield]][informatn-x-link]
+[![][informatn-telegram-shield]][informatn-telegram-link]
+[![][informatn-email-shield]][informatn-email-address]
 
-**I'm walpurgis** - I'm a full-stack developer and designer living in a small town. I’m passionate about development, research, and building high-quality products. During my free time, I often work on random projects.
-<br/>
+<sup>Thank you for visiting. This repository is the result of my dedication and hard work. I hope you find it valuable<br/>
+and inspiring. Feel free to explore and share your thoughts!
+Enjoy your stay! ;)</sup>
 
-[![SkillIcons](https://skillicons.dev/icons?i=react,nextjs,html,css,vscode,github,figma,tailwindcss,git,nodejs,javascript,typescript,express,mongodb,postgresql,mysql)](https://skillicons.dev)<br/>
+> Hi, I'm yggdris-walps (a.k.a Walps), ...
 
-<!-- icons?i=react,nextjs,vite,html,css,vscode,github,figma,tailwindcss,git,nodejs,python,javascript,typescript,express,firebase,mongodb,java,postgresql,mysql,flask -->
+### 🔨 Skills
 
-[^ These icons are one of my projects!](https://github.com/tandpfun/skill-icons)
-<br/>
+🖥️ **Front End** / 🔧 **Backend** / 🔒 **Network Security** / 🧠 **Machine Learning**
+
+### 🍉 Tech Stack
+
+[![My Skills][tech-stack-skillicons-shield]](https://skillicons.dev)
+
+### 🔨 Tools I Use
+
+[![My Skills][tools-skillicons-shield]](https://skillicons.dev)
+
+### 🍏 Contribution
+
+[![yggdris-walps's GitHub | Stats][contribution-stats-shield]][contribution-stats-link]
+
 <details>
-  <summary>Github Stars ⚡</summary>
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=walpurgis-dotdev&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walpurgis-dotdev&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-</details>
-<br/>
-<div align=center>
-  <a href="#" title="walpurgis-dotdev">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=walpurgis-dotdev&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-  </a>
-  <br/>
+  <summary><kbd>Star History</kbd></summary>
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/walpurgis-dotdev/walpurgis-dotdev/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/walpurgis-dotdev/walpurgis-dotdev/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/walpurgis-dotdev/walpurgis-dotdev/output/github-contribution-grid-snake.svg"
-    />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=yggdris-walps%2Fyggw&theme=light&type=Date">
+    <img width="100%" src="https://api.star-history.com/svg?repos=yggdris-walps%2Fyggw&type=Date">
   </picture>
-</div>
+</details>
+
+[![][github-contribution-grid-snake-shield]][github-contribution-grid-snake-link]
+
+<!-- SNAKE GROUP -->
+
+[github-contribution-grid-snake-shield]: https://raw.githubusercontent.com/yggdris-walps/yggdris-walps/output/github-contribution-grid-snake-dark.svg
+[github-contribution-grid-snake-link]: https://github.com/Platane/snk
+
+<!-- SKILLICONS SHIELDS GROUP -->
+
+[tech-stack-skillicons-shield]: https://skillicons.dev/icons?i=python,arduino,nodejs,php,react,next,vue,nuxt,angular,express,tailwindcss,redux,bootstrap,html,css,js,jquery,ts,scss,django,flask,tensorflow,opencv,threejs
+[tools-skillicons-shield]: https://skillicons.dev/icons?i=mysql,sqlite,redis,postgresql,docker,nginx,git,npm,pnpm,yarn,vite,vitest,webpack,babel,github,githubactions,figma,aws,azure,gcp,cloudflare,vercel,heroku
+
+<!-- CONTRIBUTION GROUP -->
+
+[contribution-stats-shield]: https://stats.quira.sh/yggdris-walps/github?theme=dark
+[contribution-stats-link]: https://quira.sh?utm_source=widgets&utm_campaign=yggdris-walps
+
+<!-- SHIELDS GROUP -->
+
+[github-follower-shield]: https://img.shields.io/github/followers/yggdris-walps?style=flat-square&logo=github&labelColor=black&color=ffb155
+[informatn-x-shield]: https://img.shields.io/badge/-Walpurgis-black?labelColor=black&logo=x&logoColor=white&style=flat-square
+[informatn-telegram-shield]: https://img.shields.io/badge/-Yggdrasil%20Walps-black?labelColor=black&logo=telegram&logoColor=white&style=flat-square
+[informatn-email-shield]: https://img.shields.io/badge/-hoangthaininh.hgn@gmail.com-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square
+
+<!-- LINK BUTTONS GROUP -->
+
+[github-follower-stats]: https://github.com/yggdris-walps
+[informatn-x-link]: https://x.com/louiswalpurgis
+[informatn-telegram-link]: https://t.me/share/url?url=https%3A//daily.dev&text=I%20recently%20started%20using%20daily.dev%20-%20It's%20like%20a%20newsfeed%20but%20just%20for%20dev%20content.%20Pretty%20handy%20for%20staying%20up%20to%20date%20without%20the%20usual%20internet%20rabbit%20hole.%20Might%20be%20a%20nice%20break%20from%20the%20usual%20sites.
+[informatn-email-address]: mailto:hoangthaininh.hgn@gmail.com
