@@ -63,5 +63,5 @@ Enjoy your stay! ;)</sup>
 
 [github-follower-stats]: https://github.com/yggdris-walps
 [informatn-x-link]: https://x.com/louiswalpurgis
-[informatn-telegram-link]: t.me/louiswalpurgis
+[informatn-telegram-link]: https://t.me/louiswalpurgis
 [informatn-email-address]: mailto:hoangthaininh.hgn@gmail.com
