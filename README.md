@@ -63,5 +63,5 @@ Enjoy your stay! ;)</sup>
 
 [github-follower-stats]: https://github.com/yggdris-walps
 [informatn-x-link]: https://x.com/louiswalpurgis
-[informatn-telegram-link]: https://t.me/share/url?url=https%3A//daily.dev&text=I%20recently%20started%20using%20daily.dev%20-%20It's%20like%20a%20newsfeed%20but%20just%20for%20dev%20content.%20Pretty%20handy%20for%20staying%20up%20to%20date%20without%20the%20usual%20internet%20rabbit%20hole.%20Might%20be%20a%20nice%20break%20from%20the%20usual%20sites.
+[informatn-telegram-link]: t.me/louiswalpurgis
 [informatn-email-address]: mailto:hoangthaininh.hgn@gmail.com
